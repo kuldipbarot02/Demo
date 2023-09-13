@@ -1,4 +1,4 @@
 # Demo
 Priject demo
 <br>
-author - Kuldio barot
+author - Kuldio_barot
